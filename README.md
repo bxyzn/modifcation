@@ -1,1 +1,1 @@
- 
+[SECTION 52, Motor Vehicle Act, 1988](https://github.com/bxyzn/modifcation/blob/main/Section%2052%20of%20the%20Motor%20Vehicles%20Act%2C%201988.md)
