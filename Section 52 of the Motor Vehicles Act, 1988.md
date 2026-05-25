@@ -1,3 +1,5 @@
+# Section 52 of Motor Vehicles Act, 1988
+
 ## **CONTENTS**
 
 39.  [Necessity for registration.](#39-necessity-for-registration) 
