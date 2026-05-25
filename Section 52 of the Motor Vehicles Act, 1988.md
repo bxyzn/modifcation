@@ -1,6 +1,39 @@
+## **CONTENTS**
+
+39.  [Necessity for registration.](#39-necessity-for-registration) 
+40.  [Registration, where to be made.](#40-registration-where-to-be-made) 
+41.  [Registration, how to be made.](#41-registration-how-to-be-made)
+42.  [Special provision for registration of motor vehicles of diplomatic officers, etc.](#42-special-provision-for-registration-of-motor-vehicles-of-diplomatic-officers-etc)
+43.  [Temporary registration.](#43-temporary-registration) 
+44.  [Production of vehicle at the time of registration.](#44-production-of-vehicle-at-the-time-of-registration) 
+45.  [Refusal of registration or renewal of the certificate of registration.](#45-refusal-of-registration-or-renewal-of-the-certificate-of-registration) 
+46.  [Effectiveness in India of registration.](#46-effectiveness-in-india-of-registration) 
+47.  [Assignment of new registration mark on removal to another State.](#47-assignment-of-new-registration-mark-on-removal-to-another-state) 
+48.  [No objection certificate.](#48-no-objection-certificate) 
+49.  [Change of residence or place of business.](#49-change-of-residence-or-place-of-business)
+50.  [Transfer of ownership.](#50-transfer-of-ownership) 
+51.  [Special provisions regarding motor vehicle subject to hire-purchase agreement, etc.](#51-special-provisions-regarding-motor-vehicle-subject-to-hire-purchase-agreement-etc) 
+52.  [Alteration in motor vehicle.](#52-alteration-in-motor-vehicle) 
+53.  [Suspension of registration.](#53-suspension-of-registration) 
+54.  [Cancellation of registration suspended under section 53.](#54-cancellation-of-registration-suspended-under-section-53) 
+55.  [Cancellation of registration.](#55-cancellation-of-registration) 
+56.  [Certificate of fitness of transport vehicles.](#56-certificate-of-fitness-of-transport-vehicles) 
+57.  [Appeals.](#57-appeals) 
+58.  [Special provisions in regard to transport vehicles.](#58-special-provisions-in-regard-to-transport-vehicles) 
+59.  [Power to fix the age limit of motor vehicle.](#59-power-to-fix-the-age-limit-of-motor-vehicle) 
+60.  [Registration of vehicles belonging to the Central Government.](#60-registration-of-vehicles-belonging-to-the-central-government) 
+61.  [Application of Chapter to trailers.](#61-application-of-chapter-to-trailers) 
+62.  [Information regarding stolen and recovered motor vehicles to be furnished by the police to the State Transport Authority.](#62-information-regarding-stolen-and-recovered-motor-vehicles-to-be-furnished-by-the-police-to-the-state-transport-authority)
+63.  [Maintenance of State Registers of Motor Vehicles.](#63-maintenance-of-state-registers-of-motor-vehicles) 
+64.  [Power of Central Government to make rules.](#64-power-of-central-government-to-make-rules) 
+65.  [Power of State Government to make rules.](#65-power-of-state-government-to-make-rules) 
+
+---
+
 # CHAPTER IV
 
 ## REGISTRATION OF MOTOR VEHICLES
+<br>
 
 ### 39. Necessity for registration.
 
@@ -439,29 +472,3 @@ The Central Government may make rules to provide for all or any of the following
 * **(n)** the form in which and the period within which the return under section 62 shall be sent;
 * **(o)** the manner in which the State Register of Motor Vehicles shall be maintained under section 63;
 * **(p)** any other matter which is to be or may be prescribed.
-
----
-
-# CHAPTER V
-
-## CONTROL OF TRANSPORT VEHICLES
-
-### 66. Necessity for permits.
-
-**(1)** No owner of a motor vehicle shall use or permit the use of the vehicle as a transport vehicle in any public place whether or not such vehicle is actually carrying any passengers or goods save in accordance with the conditions of a permit granted or countersigned by a Regional or State Transport Authority or any prescribed authority authorising him the use of the vehicle in that place in the manner in which the vehicle is being used:
-
-*Provided that a stage carriage permit shall, subject to any conditions that may be specified in the permit, authorise the use of the vehicle as a contract carriage:*
-
-*Provided further that a stage carriage permit may, subject to any conditions that may be specified in the permit, authorise the use of the vehicle as a goods carriage either when carrying passengers or not:*
-
-*Provided also that a goods carriage permit shall, subject to any conditions that may be specified in the permit, authorise the use of the vehicle for the carriage of goods for or in connection with a trade or business carried on by him.*
-
-**(2)** The holder of a goods carriage permit may use the vehicle, for the drawing of any public or semi-trailer not owned by him, subject to such conditions as may be prescribed.
-
-*Provided that the holder of a permit of any articulated vehicle may use the prime-mover of that articulated vehicle for any other semi-trailor:*
-
-**(3)** The provisions of sub-section (1) shall not apply
-
-* **(a)** to any transport vehicle owned by the Central Government or a State Government and used for Government purposes unconnected with any commercial enterprise;
-* **(b)** to any transport vehicle owned by a local authority or by a person acting under contract with a local authority and used solely for road cleansing, road watering or conservancy purposes;
-* **(c)** to any transport vehicle used solely for police, fire brigade or ambulance purposes;
